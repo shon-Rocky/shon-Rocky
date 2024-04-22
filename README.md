@@ -9,11 +9,11 @@
 
 - 📫 How to reach me **shonmon168@gmail.com**
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm secretly training an AI system to replicate the skills of Neo from The Matrix so I can dodge artifacts and performance issues.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shon rockey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shon rockey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shon-rockey-433769264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shon-rockey-433769264" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
