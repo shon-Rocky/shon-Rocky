@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shonmon Rockey</h1>
 <br>
-<h3 align="center">Self-taught AI enthusiast passionate about technology's potential for a better future. Dropped out of college to pursue AI, learned languages like C, Java, Javascript and Python. Fascinated by big language models and smart agents. Eager to learn and contribute to AI advancements.</h3>
+<h3 align="center">Self-taught AI enthusiast passionate about technology's potential for a better future. Fascinated by big language models and smart agents. Eager to learn and contribute to AI advancements.</h3>
 <br>
 
 - 👀 I’m interested in NN, Langchain, LLM, Agents
